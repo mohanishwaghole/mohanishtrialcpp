@@ -1,0 +1,2 @@
+# mohanishtrialcpp
+simple project
