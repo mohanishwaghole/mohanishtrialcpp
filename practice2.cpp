@@ -19,7 +19,7 @@ int main ()
     string m1 = "mohanish1" ;
 	string m2 = "waghole";
 	string sum11= m1 + m2 ;
-    cout << f1 <<"\n";
+    cout << f1 <<"\n\n";
     cout << d1<<"\n";
     cout<<a1<<"\n";
     cout<<a2<<"\n";
